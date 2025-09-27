@@ -1,0 +1,9 @@
+.venv
+__pycache__/
+instance/
+*.pyc       
+.env
+.vscode/
+.DS_Store
+
+# Ignore IDE specific files
